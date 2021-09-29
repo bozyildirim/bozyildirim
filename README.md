@@ -1,0 +1,3 @@
+- Hi, I'm Bartu Ozyildirim. 
+- I'm a freshman student in Bilkent University
+- I love sports and programming.
